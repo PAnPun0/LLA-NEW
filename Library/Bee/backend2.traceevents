@@ -1,0 +1,222 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1732252734405019, "dur":19109, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1732252734424133, "dur":93, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1732252734424262, "dur":267, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1732252734424638, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1732252734424848, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1732252734424942, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1732252734424554, "dur":3704, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1732252734428260, "dur":198317, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1732252734626579, "dur":365, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1732252734627086, "dur":2059, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1732252734424912, "dur":3357, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1732252734428272, "dur":1845, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1732252734455516, "dur":511, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1732252734456032, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1732252734456142, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1732252734456426, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Chereshnya\\Desktop\\unity\\Lost in Translation\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1732252734456548, "dur":173, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Chereshnya\\Desktop\\unity\\Lost in Translation\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1732252734456722, "dur":244, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Chereshnya\\Desktop\\unity\\Lost in Translation\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1732252734456968, "dur":396, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Chereshnya\\Desktop\\unity\\Lost in Translation\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1732252734457366, "dur":770, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Chereshnya\\Desktop\\unity\\Lost in Translation\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1732252734458140, "dur":338, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Chereshnya\\Desktop\\unity\\Lost in Translation\\Library\\Bee\\PlayerScriptAssemblies\\Ink-Libraries.dll" }}
+,{ "pid":12345, "tid":1, "ts":1732252734458479, "dur":116, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Chereshnya\\Desktop\\unity\\Lost in Translation\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1732252734458596, "dur":398, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Chereshnya\\Desktop\\unity\\Lost in Translation\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1732252734459051, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player6ebe51e0-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1732252734456031, "dur":3241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1732252734459504, "dur":57, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1732252734459975, "dur":163606, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1732252734625543, "dur":126, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1732252734625541, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1732252734625696, "dur":837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1732252734425025, "dur":3270, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1732252734428299, "dur":345, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1732252734428645, "dur":368, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1732252734429014, "dur":1113, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1732252734431505, "dur":2563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1732252734434464, "dur":913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1732252734437056, "dur":83, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1732252734435706, "dur":1475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1732252734437398, "dur":1281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1732252734438782, "dur":2223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1732252734441741, "dur":1001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1732252734447147, "dur":1221, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1732252734443215, "dur":5410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1732252734448703, "dur":400, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\2022.3.8f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734448700, "dur":404, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734449111, "dur":123, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1732252734449237, "dur":4279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734453576, "dur":1959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734455568, "dur":891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734456489, "dur":2794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734459317, "dur":3014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734462510, "dur":6120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734468680, "dur":2600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734471328, "dur":2160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734473533, "dur":1837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734475404, "dur":2368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734477803, "dur":5550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734483383, "dur":3699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734487115, "dur":3546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1732252734490731, "dur":33389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1732252734524200, "dur":102398, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1732252734424985, "dur":3293, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1732252734428289, "dur":380, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1732252734428670, "dur":1452, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1732252734439731, "dur":1352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1732252734442443, "dur":7096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734449606, "dur":2261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734451971, "dur":1557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734453576, "dur":2096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734455758, "dur":6421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734462285, "dur":2184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734464526, "dur":2062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734466614, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1732252734466683, "dur":1453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734468166, "dur":2442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734470644, "dur":2913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734473595, "dur":1838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734475467, "dur":2321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734477820, "dur":1568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734479425, "dur":2748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734482209, "dur":2068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734484311, "dur":2559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734486900, "dur":4698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1732252734491637, "dur":6053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1732252734497864, "dur":3563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1732252734501553, "dur":10224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1732252734511874, "dur":1595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/level1" }}
+,{ "pid":12345, "tid":3, "ts":1732252734513558, "dur":1558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1732252734515170, "dur":3590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1732252734518846, "dur":107746, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1732252734425077, "dur":3227, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1732252734428308, "dur":505, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1732252734428814, "dur":1304, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1732252734430142, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1732252734454668, "dur":6915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1732252734461600, "dur":2105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/Ink-Libraries.dll" }}
+,{ "pid":12345, "tid":4, "ts":1732252734463779, "dur":1449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1732252734465270, "dur":1967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1732252734467270, "dur":2018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1732252734469396, "dur":1812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1732252734471240, "dur":3224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1732252734474679, "dur":2577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1732252734477290, "dur":1838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1732252734479208, "dur":1214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1732252734480455, "dur":2244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1732252734482732, "dur":2040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1732252734484803, "dur":2178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1732252734487047, "dur":4265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1732252734491352, "dur":22900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":4, "ts":1732252734515197, "dur":111374, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1732252734425116, "dur":3199, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1732252734428320, "dur":513, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1732252734428833, "dur":1301, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1732252734431913, "dur":2063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1732252734434147, "dur":1470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1732252734435881, "dur":1397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1732252734437660, "dur":922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1732252734438617, "dur":145, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1732252734438851, "dur":2719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1732252734441589, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":5, "ts":1732252734441589, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure.exe" }}
+,{ "pid":12345, "tid":5, "ts":1732252734443905, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1732252734441655, "dur":2358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure.exe" }}
+,{ "pid":12345, "tid":5, "ts":1732252734444278, "dur":4755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1732252734449085, "dur":236, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1732252734449396, "dur":10626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1732252734460062, "dur":2196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1732252734462348, "dur":1669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1732252734466583, "dur":88, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1732252734464081, "dur":2601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1732252734466745, "dur":2480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1732252734469264, "dur":2225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1732252734471520, "dur":3231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1732252734474786, "dur":1882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1732252734476696, "dur":3928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1732252734480678, "dur":2640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1732252734483356, "dur":2056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1732252734485447, "dur":2991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1732252734488464, "dur":167, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1732252734488634, "dur":3576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":5, "ts":1732252734492300, "dur":17641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1732252734510069, "dur":5225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/level1.resS" }}
+,{ "pid":12345, "tid":5, "ts":1732252734515334, "dur":111240, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1732252734425170, "dur":3156, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1732252734428330, "dur":354, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1732252734428685, "dur":1438, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1732252734431423, "dur":2536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1732252734434242, "dur":1281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1732252734435675, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1732252734437703, "dur":1001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1732252734438951, "dur":2431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1732252734441408, "dur":163, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734441406, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734443438, "dur":10193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734453704, "dur":1690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734455438, "dur":996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734456466, "dur":2950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734459525, "dur":2779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734462321, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734462498, "dur":3380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734465953, "dur":2043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734468032, "dur":2585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734470648, "dur":3601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734474284, "dur":1137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734475450, "dur":2214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734477735, "dur":4466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734482237, "dur":2118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734484390, "dur":2373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734486846, "dur":4015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1732252734490943, "dur":2183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1732252734493200, "dur":11655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1732252734504972, "dur":8473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1732252734514933, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1732252734513558, "dur":1475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1732252734515104, "dur":3210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1732252734518400, "dur":108210, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1732252734425217, "dur":3118, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1732252734428338, "dur":380, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1732252734428719, "dur":1400, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1732252734439995, "dur":2795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1732252734443410, "dur":5730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734449184, "dur":7152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734456375, "dur":2770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734459197, "dur":1422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734460650, "dur":2222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734462928, "dur":3464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734466548, "dur":2311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734468885, "dur":3556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734472480, "dur":2282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734474822, "dur":2167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734477090, "dur":2110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734479233, "dur":1148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734480411, "dur":2397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734482871, "dur":2233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734485142, "dur":2705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734487886, "dur":40633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1732252734528546, "dur":98033, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1732252734425267, "dur":3077, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1732252734428344, "dur":526, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1732252734428871, "dur":1258, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1732252734430135, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1732252734454304, "dur":1518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1732252734455868, "dur":3489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734459386, "dur":2120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734461543, "dur":1594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734463191, "dur":1638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734464862, "dur":2038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734466933, "dur":2730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734469690, "dur":2372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734472095, "dur":1989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734474130, "dur":1999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734476174, "dur":3278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734479489, "dur":2869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734482393, "dur":1976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734484399, "dur":3260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734487694, "dur":5462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1732252734493216, "dur":20468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1732252734513889, "dur":12423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Chereshnya/Desktop/naxxx/A Language Learning Adventure_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1732252734527485, "dur":99099, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1732252734632547, "dur":1145, "ph":"X", "name": "ProfilerWriteOutput" }
+,
